@@ -1,0 +1,2 @@
+caseName,caseID,Azimuth,airTightness50,Floor,Wall,Ceiling,Door,Windows,Windows2
+IECC 2021 Gas,12,180,0.2998,_Slab_Uninsulated,"_Wall Wood R-13 FG Batt 2x4, 16oc, OSB ","_Ceiling R-30 Cellulose, Vented (2)",_Doors R-5,"_Double U=0.50, g=0.25","_Double U=0.50, g=0.25"
